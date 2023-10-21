@@ -6,7 +6,7 @@ public class BitwiseValuesSwap {
         second = first ^ second;
         first = first ^ second;
 
-        System.out.println(first)
-        System.out.println(second)
+        System.out.println(first);
+        System.out.println(second);
     }
 }
